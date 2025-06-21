@@ -9,6 +9,7 @@ AWS-certified cloud professional with hands-on experience designing, implementin
 
 ### Certifications
 - AWS Certified Solutions Architect
+- AWS Certertified AI Practitioner 
 - AWS Cloud Practitioner
 - CompTIA Security+
 - CompTIA Network+
