@@ -5,7 +5,7 @@
 💼 [LinkedIn](https://linkedin.com/in/jimmy-peralta)
 
 ### About Me
-AWS-certified cloud professional with hands-on experience designing, implementing, and maintaining scalable cloud infrastructure. Currently working at Paramount Networks supporting AWS infrastructure for hybrid broadcast systems. Passionate about containerization, serverless architectures, and infrastructure as code.
+I build the cloud systems that make presence possible at scale—low-latency content delivery with CloudFront and Route 53, real-time interactivity through serverless APIs, and resilient multi-region architectures for uninterrupted access. Each pinned project includes diagrams and a portfolio brief written for both technical and non-technical readers. My focus is not just infrastructure that works, but infrastructure that communicates—platforms that let immersive media truly connect global audiences.
 
 ### Certifications
 - AWS Certified Solutions Architect
