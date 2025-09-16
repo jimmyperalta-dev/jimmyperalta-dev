@@ -37,5 +37,4 @@ I build the cloud systems that make presence possible at scale—low-latency con
 ### Let's Connect
 I'm always interested in connecting with fellow cloud enthusiasts and discussing AWS best practices!
 
----
-*Note: Some of my repositories contain code developed with assistance from AI tools like Claude. I believe in transparency while leveraging modern tools to enhance productivity.*
+
